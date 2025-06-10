@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/ai_job_dataset_encoded.csv filter=lfs diff=lfs merge=lfs -text
