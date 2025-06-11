@@ -52,5 +52,5 @@ Model performance was evaluated using **R²**, **MAE**, **MSE**, and **RMSE**. F
 ## 👤 Author
 
 **Franciszek Tokarek**  
-GitHub: [@ftokarek](https://github.com/ftokarek)
-LinkedIn: [linkedin.com/in/franciszektokarek](https://www.linkedin.com/in/franciszektokarek/)
+- GitHub: [@ftokarek](https://github.com/ftokarek)
+- LinkedIn: [linkedin.com/in/franciszektokarek](https://www.linkedin.com/in/franciszektokarek/)
